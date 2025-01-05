@@ -8,3 +8,10 @@ IP-CIDR,192.168.0.0/16
 
 # Direct 
 DOMAIN-SUFFIX, kinopub.me
+DOMAIN-SUFFIX, alfabank.ru
+DOMAIN-SUFFIX, tbank.ru
+DOMAIN-SUFFIX, tinkoff.ru
+DOMAIN-SUFFIX, ozon.ru
+DOMAIN-SUFFIX, avito.ru
+DOMAIN-SUFFIX, sberbank.ru
+
